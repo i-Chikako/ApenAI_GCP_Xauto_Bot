@@ -29,10 +29,10 @@
 
 ```bash
 .
-├── generate_tweet_function/
+├── generate_post_function/
 │   ├── main.py               # ChatGPTでポスト文を生成しスプレッドシートに追加
 │   └── requirements.txt      # OpenAI, gspread など
-├── post_tweet_function/
-│   ├── main.py               # スプレッドシートから投稿してTwitterに送信
+├── post_auto_function/
+│   ├── main.py               # スプレッドシートから投稿してXに送信
 │   └── requirements.txt      # tweepy, gspread など
 └── README.md                 # このドキュメント

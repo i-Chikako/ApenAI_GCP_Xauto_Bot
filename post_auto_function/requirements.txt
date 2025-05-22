@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+gspread==6.0.2
+tweepy==4.14.0
+google-auth

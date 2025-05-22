@@ -36,3 +36,12 @@
 │   ├── main.py               # スプレッドシートから投稿してXに送信
 │   └── requirements.txt      # tweepy, gspread など
 └── README.md                 # このドキュメント
+
+---
+
+## 📝 補足
+
+このプロジェクトでは、APIの活用や Google Cloud Functions の使い方、Cloud Scheduler による自動実行の仕組みを学びました。  
+特に、クラウド上での自動化フローを構築できたことが大きな成果です。
+
+今回は Google Cloud 内で完結する構成でしたが、今後はローカル環境や他クラウドサービス（例：AWS、Azure）も視野に入れて、より幅広い自動化技術を学んでいきたいと考えています。

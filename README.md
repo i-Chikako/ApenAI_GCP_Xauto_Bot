@@ -7,7 +7,7 @@
 
 ## 🔧 使用技術
 
-- Google Cloud Functions
+- Google Cloud Run functions
 - Cloud Scheduler
 - Google Sheets API
 - OpenAI API（ChatGPT）

@@ -1,6 +1,6 @@
 # 🐤 ChatGPT × GCP × X自動ツイートBot
 
-このプロジェクトは、**ChatGPTで生成したツイート案をGoogleスプレッドシートに保存し、Cloud FunctionsとSchedulerを使って自動投稿する仕組み**です。  
+**ChatGPTで生成したツイート案をGoogleスプレッドシートに保存し、Cloud FunctionsとSchedulerを使って自動投稿する仕組み**です。  
 週1回の自動生成と、月～金の自動投稿をスケジューリングしています。
 
 ---

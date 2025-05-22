@@ -40,7 +40,7 @@ def Ai_API(request):
     post_col = header.index("投稿内容") + 1
     next_row = len(sheet.col_values(post_col)) + 1
 
-    # 順に書き込み（append_row でも OK）
+    # 順に書き込み
     for i, choice in enumerate(chat_completion.choices):
         text = choice.message.content.strip()
         sheet.update_cell(next_row + i, post_col, text)
